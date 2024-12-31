@@ -1,0 +1,1 @@
+export type Protocol = 'HTTP' | 'HTTPS' | 'WebSocket' | 'TCP' | 'UDP' | 'MQTT' | 'CoAP';
